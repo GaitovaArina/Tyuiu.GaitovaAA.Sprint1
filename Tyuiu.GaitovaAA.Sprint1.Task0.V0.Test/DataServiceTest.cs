@@ -1,6 +1,6 @@
-﻿using Tyuiu.GaitovaAA.Sprint1.Task0.V0.Lib;
+﻿using Tyuiu.GaitovaAA.Sprint1.Task0.V8.Lib;
 
-namespace Tyuiu.GaitovaAA.Sprint1.Task0.V0.Test
+namespace Tyuiu.GaitovaAA.Sprint1.Task0.V8.Test
 {
     [TestClass]
     public sealed class DataServiceTest
@@ -10,7 +10,7 @@ namespace Tyuiu.GaitovaAA.Sprint1.Task0.V0.Test
         {
             DataService ds = new DataService();
             var res = ds.Calculate();
-            Assert.AreEqual(2, res);
+            Assert.AreEqual(1.875, res);
         }
     }
 }
