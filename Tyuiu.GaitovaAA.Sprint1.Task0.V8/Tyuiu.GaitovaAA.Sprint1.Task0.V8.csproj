@@ -8,10 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="C:\Users\Арина\source\repos\Tyuiu.GaitovaAA.Sprint1\Tyuiu.GaitovaAA.Sprint1.Task0.V8\Program.cs" Link="Program.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Tyuiu.GaitovaAA.Sprint1.Task0.V0.Lib\Tyuiu.GaitovaAA.Sprint1.Task0.V8.Lib.csproj" />
   </ItemGroup>
 
