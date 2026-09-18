@@ -10,7 +10,7 @@ namespace Tyuiu.GaitovaAA.Sprint1.Task0.V8.Test
         {
             DataService ds = new DataService();
             var res = ds.Calculate();
-            Assert.AreEqual(1.875, res);   
+            Assert.AreEqual(1.875, res);     
         }
     }
 }
