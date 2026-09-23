@@ -1,6 +1,7 @@
 <Solution>
-  <Folder Name="/Task0/" />
-  <Project Path="Tyuiu.GaitovaAA.Sprint1.Task0.V8.Lib/Tyuiu.GaitovaAA.Sprint1.Task0.V8.Lib.csproj" />
-  <Project Path="Tyuiu.GaitovaAA.Sprint1.Task0.V8.Test/Tyuiu.GaitovaAA.Sprint1.Task0.V8.Test.csproj" />
-  <Project Path="Tyuiu.GaitovaAA.Sprint1.Task0.V8/Tyuiu.GaitovaAA.Sprint1.Task0.V8.csproj" />
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.GaitovaAA.Sprint1.Task0.V8.Lib/Tyuiu.GaitovaAA.Sprint1.Task0.V8.Lib.csproj" />
+    <Project Path="Tyuiu.GaitovaAA.Sprint1.Task0.V8.Test/Tyuiu.GaitovaAA.Sprint1.Task0.V8.Test.csproj" />
+    <Project Path="Tyuiu.GaitovaAA.Sprint1.Task0.V8/Tyuiu.GaitovaAA.Sprint1.Task0.V8.csproj" />
+  </Folder>
 </Solution>
